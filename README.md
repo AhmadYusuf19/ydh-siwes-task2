@@ -5,7 +5,7 @@ This report provides a summary of the web traffic analysis conducted on Shopee w
 The analysis focuses on understanding user behavior, identifying traffic sources, and providing recommendations for improving website performance.
 
 ## Data Sources:
-<a href="https://github.com/AhmadYusuf19/ydh-siwes-task2/blob/main/WEB%20TRAFFIC%20DATASET.xlsx">Data Set</a>
+• <a href="https://github.com/AhmadYusuf19/ydh-siwes-task2/blob/main/WEB%20TRAFFIC%20DATASET.xlsx">Data Set</a>
 
 •	Website Server Logs
 
@@ -19,11 +19,15 @@ The analysis focuses on understanding user behavior, identifying traffic sources
 
 ## Findings:
 •	Age Range: The majority of users were between 31 and 59 years old 
+
 •	Location: Most traffic originated from UK having (26%).
+
 •	Device Type: Smart Phone accounted for most of the web traffic with (33%) traffic
 
 ## Recommendations:
 •	Conduct testing to evaluate the impact of design changes on user behavior.
+
 •	Analyze user behavior data to identify user segments and preferences.
+
 •	Explore the relationship between user demographics and purchasing behavior.
 
