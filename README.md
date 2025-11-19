@@ -1,11 +1,10 @@
-Title: Web Traffic Analysis Report
-Document Type: Report
-Author: Ahmad Oluwaseun Yusuf
-Date: August 16 2024
-Purpose:
+#Shopee Web Traffic Analysis Data Analytics (Interactive Dashboard creation using MS Excel)
+
+##Project Objective
 This report provides a summary of the web traffic analysis conducted on Shopee website January 2024 till date, 
 The analysis focuses on understanding user behavior, identifying traffic sources, and providing recommendations for improving website performance.
-Data Sources:
+
+##Data Sources:
 •	Website Server Logs
 •	Social Media Platforms (Facebook, Instagram, Twitter)
 Methodology:
